@@ -1,0 +1,18 @@
+{
+  "name": "bschonec-ca_systemedge",
+  "version": "0.1.0",
+  "author": "bschonec",
+  "summary": "A Puppet module to install and configure Computer Associates SystemEdge monitoring.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/bschonec/ca_systemedge.git",
+  "project_page": "https://github.com/bschonec/ca_systemedge",
+  "issues_url": "https://github.com/bschonec/ca_systemedge/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
